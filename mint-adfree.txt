@@ -15,3 +15,6 @@ wwws.mint.com###credit-score-content > .content.signed-up-module > .score.sectio
 
 ! "Ways to save" in upper navigation bar.
 wwws.mint.com###save
+
+! "Ways to save" in lower navigation bar.
+wwws.mint.com###ftr-save
