@@ -1,2 +1,5 @@
 ! Ad on login page.
 wwws.mint.com###loginAd
+
+! Large banner under navigation bar.
+wwws.mint.com##.background-gradient > .HypothesisTestingView
