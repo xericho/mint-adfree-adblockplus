@@ -48,3 +48,6 @@ wwws.mint.com###txn-column-details-personal
 
 ! "Your fresh start is waiting" ad under navigation bar.
 wwws.mint.com###replace-with-iframe-investments_mat
+
+! "Ways to invest" panel on left column.
+wwws.mint.com###ways_to_invest_control
