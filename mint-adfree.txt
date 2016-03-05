@@ -3,3 +3,6 @@ wwws.mint.com###loginAd
 
 ! Large banner under navigation bar.
 wwws.mint.com##.background-gradient > .HypothesisTestingView
+
+! "Advice" panel.
+wwws.mint.com###module-advice
