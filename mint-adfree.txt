@@ -42,3 +42,9 @@ wwws.mint.com###advice-top-container
 
 ! Column with ads on the far right.
 wwws.mint.com###txn-column-details-personal
+
+
+! Investments page.
+
+! "Your fresh start is waiting" ad under navigation bar.
+wwws.mint.com###replace-with-iframe-investments_mat
