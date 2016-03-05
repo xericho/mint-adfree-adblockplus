@@ -51,3 +51,6 @@ wwws.mint.com###replace-with-iframe-investments_mat
 
 ! "Ways to invest" panel on left column.
 wwws.mint.com###ways_to_invest_control
+
+! "Want to trade stocks?" panel on left column.
+wwws.mint.com###brokerage-link
