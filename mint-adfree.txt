@@ -12,3 +12,6 @@ wwws.mint.com###module-offers
 
 ! Credit score upgrade link.
 wwws.mint.com###credit-score-content > .content.signed-up-module > .score.section > .rating > div > .mcm-upgrade
+
+! "Ways to save" in upper navigation bar.
+wwws.mint.com###save
