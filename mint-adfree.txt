@@ -21,3 +21,6 @@ wwws.mint.com###ftr-save
 
 ! "Do more with your portfolio.  Find ways to invest." under "Portfolio Movers & Shakers".
 wwws.mint.com###wti_do_more_link
+
+! "Earn more with high-interest savings »" under "Cash" account.
+wwws.mint.com###moduleAccounts-bank > .accounts-adv[href^="/save.event"]
