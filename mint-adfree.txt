@@ -24,3 +24,6 @@ wwws.mint.com###wti_do_more_link
 
 ! "Earn more with high-interest savings »" under "Cash" account.
 wwws.mint.com###moduleAccounts-bank > .accounts-adv[href^="/save.event"]
+
+! "Get rewards with every purchase »" under "Credit Cards" account.
+wwws.mint.com###moduleAccounts-credit > .accounts-adv[href^="/save.event"]
