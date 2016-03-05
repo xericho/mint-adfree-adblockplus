@@ -54,3 +54,6 @@ wwws.mint.com###ways_to_invest_control
 
 ! "Want to trade stocks?" panel on left column.
 wwws.mint.com###brokerage-link
+
+! "Do you have an old 401k?" panel on left column.
+wwws.mint.com###rollover-link
