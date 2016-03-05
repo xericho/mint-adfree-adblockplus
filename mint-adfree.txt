@@ -7,5 +7,8 @@ wwws.mint.com##.background-gradient > .HypothesisTestingView
 ! "Advice" panel.
 wwws.mint.com###module-advice
 
+! "Ways to save" panel.
+wwws.mint.com###module-offers
+
 ! Credit score upgrade link.
 wwws.mint.com###credit-score-content > .content.signed-up-module > .score.section > .rating > div > .mcm-upgrade
