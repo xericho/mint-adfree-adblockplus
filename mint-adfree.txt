@@ -44,6 +44,12 @@ wwws.mint.com###advice-top-container
 wwws.mint.com###txn-column-details-personal
 
 
+! Trends page.
+
+! "Your fresh start is waiting" ad under navigation bar.
+wwws.mint.com###wrapper > .HypothesisTestingView
+
+
 ! Investments page.
 
 ! "Your fresh start is waiting" ad under navigation bar.
