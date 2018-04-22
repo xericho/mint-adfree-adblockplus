@@ -40,6 +40,9 @@ mint.intuit.com###advice-top-container
 ! Column with ads on the far right.
 mint.intuit.com###txn-column-details-personal
 
+! Inline ads in transactions.
+mint.intuit.com###TxnOfferWidgetContainer
+
 
 ! Trends page.
 
