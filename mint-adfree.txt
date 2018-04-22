@@ -1,72 +1,72 @@
 ! Ad on login page.
-wwws.mint.com###loginAd
+mint.intuit.com###loginAd
 
 ! Large banner under navigation bar.
-wwws.mint.com##.background-gradient > .HypothesisTestingView
+mint.intuit.com##.background-gradient > .HypothesisTestingView
 
 ! "Ways to save" in upper navigation bar.
-wwws.mint.com###save
+mint.intuit.com###save
 
 ! "Ways to save" in lower navigation bar.
-wwws.mint.com###ftr-save
+mint.intuit.com###ftr-save
 
 
 ! Overview page.
 
 ! "Advice" panel.
-wwws.mint.com###module-advice
+mint.intuit.com###module-advice
 
 ! "Ways to save" panel.
-wwws.mint.com###module-offers
+mint.intuit.com###module-offers
 
 ! Credit score upgrade link.
 ! FIXME: credit score div was found using a top: -42px property as of
 ! 2016-03-09.  Removing the promotional link causes the credit score to appear
 ! out-of-place, and there really isn't a good way to fix this with an ad
 ! blocker.  Commenting out this rule for now.
-! wwws.mint.com###credit-score-content > .content.signed-up-module > .score.section > .rating > div > .mcm-upgrade
+! mint.intuit.com###credit-score-content > .content.signed-up-module > .score.section > .rating > div > .mcm-upgrade
 
 ! "Do more with your portfolio.  Find ways to invest." under "Portfolio Movers & Shakers".
-wwws.mint.com###wti_do_more_link
+mint.intuit.com###wti_do_more_link
 
 ! "Earn more with high-interest savings »" under "Cash" account.
-wwws.mint.com###moduleAccounts-bank > .accounts-adv[href^="/save.event"]
+mint.intuit.com###moduleAccounts-bank > .accounts-adv[href^="/save.event"]
 
 ! "Get rewards with every purchase »" under "Credit Cards" account.
-wwws.mint.com###moduleAccounts-credit > .accounts-adv[href^="/save.event"]
+mint.intuit.com###moduleAccounts-credit > .accounts-adv[href^="/save.event"]
 
 ! "Invest now with fewer fees »" under "Investments" account.
-wwws.mint.com###moduleAccounts-investment > .accounts-adv[href^="/investment.event"]
+mint.intuit.com###moduleAccounts-investment > .accounts-adv[href^="/investment.event"]
 
 
 ! Transactions page.
 
 ! Recommendations under totals.
-wwws.mint.com###advice-top-container
+mint.intuit.com###advice-top-container
 
 ! Column with ads on the far right.
-wwws.mint.com###txn-column-details-personal
+mint.intuit.com###txn-column-details-personal
 
 
 ! Trends page.
 
 ! "Your fresh start is waiting" ad under navigation bar.
-wwws.mint.com###wrapper > .HypothesisTestingView
+mint.intuit.com###wrapper > .HypothesisTestingView
 
 
 ! Investments page.
 
 ! "Your fresh start is waiting" ad under navigation bar.
-wwws.mint.com###replace-with-iframe-investments_mat
+mint.intuit.com###replace-with-iframe-investments_mat
 
 ! "Ways to invest" panel on left column.
-wwws.mint.com###ways_to_invest_control
+mint.intuit.com###ways_to_invest_control
 
 ! "Want to trade stocks?" panel on left column.
-wwws.mint.com###brokerage-link
+mint.intuit.com###brokerage-link
 
 ! "Do you have an old 401k?" panel on left column.
-wwws.mint.com###rollover-link
+mint.intuit.com###rollover-link
 
 ! "Get growth & tax benefits" panel on left column.
-wwws.mint.com###ira-link
+mint.intuit.com###ira-link
