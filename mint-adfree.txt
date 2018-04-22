@@ -17,7 +17,7 @@ mint.intuit.com###ftr-save
 mint.intuit.com##.adviceWidget
 
 ! "Ways to save" panel.
-mint.intuit.com###module-offers
+mint.intuit.com##.w2sWidget
 
 ! "Do more with your portfolio.  Find ways to invest." under "Portfolio Movers & Shakers".
 mint.intuit.com###wti_do_more_link
