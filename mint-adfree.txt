@@ -14,7 +14,7 @@ mint.intuit.com###ftr-save
 ! Overview page.
 
 ! "Advice" panel.
-mint.intuit.com###module-advice
+mint.intuit.com##.adviceWidget
 
 ! "Ways to save" panel.
 mint.intuit.com###module-offers
