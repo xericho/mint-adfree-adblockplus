@@ -19,13 +19,6 @@ mint.intuit.com##.adviceWidget
 ! "Ways to save" panel.
 mint.intuit.com###module-offers
 
-! Credit score upgrade link.
-! FIXME: credit score div was found using a top: -42px property as of
-! 2016-03-09.  Removing the promotional link causes the credit score to appear
-! out-of-place, and there really isn't a good way to fix this with an ad
-! blocker.  Commenting out this rule for now.
-! mint.intuit.com###credit-score-content > .content.signed-up-module > .score.section > .rating > div > .mcm-upgrade
-
 ! "Do more with your portfolio.  Find ways to invest." under "Portfolio Movers & Shakers".
 mint.intuit.com###wti_do_more_link
 
