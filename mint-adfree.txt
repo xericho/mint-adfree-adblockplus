@@ -44,6 +44,12 @@ mint.intuit.com###txn-column-details-personal
 mint.intuit.com###TxnOfferWidgetContainer
 
 
+! Credit Score page.
+
+! Upsell cards.
+mint.intuit.com##.attr-upsell-card
+
+
 ! Trends page.
 
 ! "Your fresh start is waiting" ad under navigation bar.
