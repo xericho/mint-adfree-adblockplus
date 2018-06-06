@@ -34,6 +34,9 @@ mint.intuit.com###moduleAccounts-investment > .accounts-adv[href^="/investment.e
 
 ! Transactions page.
 
+! Ad under totals.
+mint.intuit.com###TopTxnOfferWidget
+
 ! Recommendations under totals.
 mint.intuit.com###advice-top-container
 
