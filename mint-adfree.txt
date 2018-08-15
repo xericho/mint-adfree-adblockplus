@@ -53,6 +53,12 @@ mint.intuit.com###TxnOfferWidgetContainer
 mint.intuit.com##.attr-upsell-card
 
 
+! Budgets page.
+
+! Ad under timeline.
+mint.intuit.com##.BudgetWidget
+
+
 ! Trends page.
 
 ! "Your fresh start is waiting" ad under navigation bar.
