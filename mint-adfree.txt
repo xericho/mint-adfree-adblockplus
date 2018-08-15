@@ -53,6 +53,12 @@ mint.intuit.com###TxnOfferWidgetContainer
 mint.intuit.com##.attr-upsell-card
 
 
+! Bills page.
+
+! Ad above totals.
+mint.intuit.com##.mintbillsLeftCol > .dashboard
+
+
 ! Budgets page.
 
 ! Ad under timeline.
