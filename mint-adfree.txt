@@ -70,6 +70,9 @@ mint.intuit.com##.BudgetWidget
 ! "Your fresh start is waiting" ad under navigation bar.
 mint.intuit.com###wrapper > .HypothesisTestingView
 
+! Ad to the right of the "Your Spending" table.
+mint.intuit.com###trends-ad
+
 
 ! Investments page.
 
