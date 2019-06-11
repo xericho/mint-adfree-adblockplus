@@ -35,13 +35,13 @@ mint.intuit.com###moduleAccounts-investment > .accounts-adv[href^="/investment.e
 ! Transactions page.
 
 ! Ad under totals.
-mint.intuit.com###TxnWelcomeMatContainer
+mint.intuit.com###TopTxnOfferWidgetContainer
 
 ! Recommendations under totals.
 mint.intuit.com###advice-top-container
 
 ! Inline ads in transactions.
-mint.intuit.com###InlineBannerWidgetContainer
+mint.intuit.com###TxnOfferWidgetContainer
 
 
 ! Credit Score page.
