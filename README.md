@@ -1,10 +1,10 @@
 Mint.com is pretty great for viewing all of your budgets and finances in one place, but I was pretty annoyed with all of the internal ads and promotional links, so I created a filter list for ad blockers to hide these.
 
-To add this list to uBlock Origin, open uBlock's settings page and click on the "3rd-party filters" tab.  Then, add this URL to the textarea on the bottom of the page:
+To add this list to uBlock Origin, open uBlock's settings page and click on the "Filter lists" tab.  At the bottom of the page, expand the "Custom" tree and check the "Import..." box.  Then, add this URL to the textarea that appears:
 
     https://raw.githubusercontent.com/synthead/mint-adfree/master/mint-adfree.txt
 
-Click on the "Parse" button and the "Apply changes" button that'll appear on the right.  You're done!  Mint should now be squeaky clean of promotional junk.  This URL reflects the latest commit to this list, so your ad blocker will auto-update accordingly.
+Click on the "Apply changes" button that'll appear on the top-right.  You're done!  Mint should now be squeaky clean of promotional junk.  This URL reflects the latest commit to this list, so your ad blocker will auto-update accordingly.
 
 This list can be used on all the other common ad blockers too, but they have their own settings page that I won't get into detail about.  If you don't know about [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en), you might consider switching to it as it's [GPL-licensed](https://github.com/chrisaljoudi/uBlock/blob/master/LICENSE.txt) and is [faster and lighter on resources than other ad blockers](https://github.com/chrisaljoudi/uBlock#performance).
 
