@@ -29,7 +29,7 @@ mint.intuit.com###moduleAccounts-bank > .accounts-adv[href^="/save.event"]
 mint.intuit.com###moduleAccounts-credit > .accounts-adv[href^="/save.event"]
 
 ! "Invest now with fewer fees »" under "Investments" account.
-mint.intuit.com###moduleAccounts-investment > .accounts-adv[href^="/investment.event"]
+mint.intuit.com###moduleAccounts-investment > .accounts-adv[href^="/investment-new.event"]
 
 
 ! Transactions page.
