@@ -31,6 +31,8 @@ mint.intuit.com###moduleAccounts-credit > .accounts-adv[href^="/save.event"]
 ! "Invest now with fewer fees »" under "Investments" account.
 mint.intuit.com###moduleAccounts-investment > .accounts-adv[href^="/investment-new.event"]
 
+! TurboTax tracker panel.
+mint.intuit.com##.mintRefundTrackerWidget
 
 ! Transactions page.
 
