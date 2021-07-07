@@ -1,3 +1,7 @@
+! Title: Mint Adfree
+! Description: A list for your ad blocker to remove internal ads and promotional content on Mint.com
+! Homepage: https://github.com/synthead/mint-adfree
+
 ! Ad on login page.
 mint.intuit.com###loginAd
 
