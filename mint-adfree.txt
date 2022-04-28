@@ -93,3 +93,9 @@ mint.intuit.com###rollover-link
 
 ! "Get growth & tax benefits" panel on left column.
 mint.intuit.com###ira-link
+
+
+! Beta version of Mint.
+
+! Block all ads.
+beta.mint.intuit.com##.promotions-personalized-offers-ui
