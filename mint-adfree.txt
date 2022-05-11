@@ -103,6 +103,9 @@ mint.intuit.com###ira-link
 ! Block "Marketplace" tab.
 beta.mint.intuit.com##a[data-auto-sel="nav-marketplace"]
 
+! Block "Tax Hub" tab.
+beta.mint.intuit.com##a[data-auto-sel="nav-incometaxhub"]
+
 
 ! Overview page.
 
