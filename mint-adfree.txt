@@ -6,10 +6,10 @@
 ! Navigation bar.
 
 ! Block "Marketplace" tab.
-mint.intuit.com##a[data-auto-sel="nav-marketplace"]
+mint.intuit.com##li:has(> a[data-auto-sel="nav-marketplace"])
 
 ! Block "Tax Hub" tab.
-mint.intuit.com##a[data-auto-sel="nav-incometaxhub"]
+mint.intuit.com##li:has(> a[data-auto-sel="nav-incometaxhub"])
 
 
 ! Overview page.
