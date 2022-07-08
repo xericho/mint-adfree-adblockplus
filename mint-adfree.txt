@@ -20,6 +20,15 @@ mint.intuit.com###marketplace-overview-cards
 ! Block container for ad.
 mint.intuit.com##div:has(> div[data-morpheus-pluginid="promotions-personalized-offers-ui"])
 
+! Block "Earn more with high-interest savings" link in Accounts card.
+mint.intuit.com##div[class^="AccountsOverviewstyle__StyledLinksContainer-"]:has(a[href="/marketplace?task=savings"])
+
+! Block "Get rewards with every purchase" link in Accounts card.
+mint.intuit.com##div[class^="AccountsOverviewstyle__StyledLinksContainer-"]:has(a[href="/marketplace?task=cc"])
+
+! Block "Invest now with fewer fees" link in Accounts card.
+mint.intuit.com##div[class^="AccountsOverviewstyle__StyledLinksContainer-"]:has(a[href="/investment"])
+
 
 ! Transactions page.
 
