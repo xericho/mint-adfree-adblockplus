@@ -18,7 +18,7 @@ mint.intuit.com##a[data-auto-sel="nav-incometaxhub"]
 mint.intuit.com###marketplace-overview-cards
 
 ! Block container for ad.
-mint.intuit.com##div[data-morpheus-pluginid="promotions-personalized-offers-ui"]
+mint.intuit.com##div:has(> div[data-morpheus-pluginid="promotions-personalized-offers-ui"])
 
 
 ! Transactions page.
