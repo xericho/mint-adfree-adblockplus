@@ -1,4 +1,4 @@
-! Title: Mint Adfree
+[Mint Adfree 1.0]
 ! Description: A list for your ad blocker to remove internal ads and promotional content on Mint.com
 ! Homepage: https://github.com/synthead/mint-adfree
 
