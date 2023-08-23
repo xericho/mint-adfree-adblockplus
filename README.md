@@ -9,3 +9,17 @@ Click the "Apply changes" button on the top-left of the page, and you're done!  
 This list can be used on all the other common ad blockers too, but they have their own settings page that I won't get into detail about.  If you don't know about [uBlock Origin](https://ublockorigin.com), you might consider switching to it as it's fast, light, and is [GPL-licensed](https://github.com/gorhill/uBlock/blob/master/LICENSE.txt).
 
 Enjoy!
+
+## TLDR Filters
+You can use this to copy and paste into your favorite adblocker!
+```
+mint.intuit.com##li:has(> a[data-auto-sel="nav-marketplace"])
+mint.intuit.com##li:has(> a[data-auto-sel="nav-incometaxhub"])
+mint.intuit.com###marketplace-overview-cards
+mint.intuit.com##div:has(> div[data-morpheus-pluginid="promotions-personalized-offers-ui"])
+mint.intuit.com##div[class^="AccountsOverviewstyle__StyledLinksContainer-"]:has(a[href="/marketplace?task=savings"])
+mint.intuit.com##div[class^="AccountsOverviewstyle__StyledLinksContainer-"]:has(a[href="/marketplace?task=cc"])
+mint.intuit.com##div[class^="AccountsOverviewstyle__StyledLinksContainer-"]:has(a[href="/investment"])
+mint.intuit.com##.promotions-personalized-offers-ui
+mint.intuit.com##div[class^="BillNegotiationCollapsestyled__CollapseWrapper-"]
+```
